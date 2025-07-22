@@ -1,5 +1,5 @@
-# Data-Warehouse-Project
+# Data-Warehouse-ProjectScreenshot 
 # Design Architecture 
 
-![Architecture Diagram 1](./screenshot/architecture1.png)
-![Architecture Diagram 2](./screenshot/architecture2.jpg)
+![Architecture Diagram 1](./screenshot/2025-07-22 220859.png)
+![Architecture Diagram 2](./screenshot/Screenshot 2025-07-22 220926.png)
